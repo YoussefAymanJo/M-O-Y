@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/M-O-Y/M-O-Y/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../M-O-Y.step",
       "svg": "",
       "vrml": ""
     },
