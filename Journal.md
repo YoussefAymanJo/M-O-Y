@@ -86,6 +86,10 @@ created at:2026-8-12
 ### Content 
 During this session , i worked mainly on moving parts,Firstly,i edit on main body dimensions reduce it,to be suitable for space on my desk and hands of robot,then i add roller from M-O robot,then i scaled it on y axis to increase it length to reach 2 end of body ,then i added arms ,and align them with roller and motors for felixbale movement.
 
+
+![Uploading Screenshot 2026-09-15 063402.png…]()
+<img width="700" height="632" alt="Screenshot 2026-09-15 063416" src="https://github.com/user-attachments/assets/ea41232f-5534-4f4a-bfa5-f5a2a76108fe" />
+
 After that,i wann make holder picece that hold 2 servo and is settled and joined to extruding hanging in main body like lego,so i contruct on inner body and make the hanging part on two sides ,then extrude them.
 
 After that,i record servo dimensions,then i sketch rectangle part with circle hole in the middle,after that i add fillset,but romved it later,then i project servo on this peice the extrude this edges for holding servo with serwes in the edges.then,i removed the hole in the middle and replace it with 2 big and small circle connected by loft making like hanging or joint for coloumn of the head.then i reedit on it dimensions from beginng as found it was wrong,then i added in the back extrudtion in shape of rectangle to be joint in hanging in the body.
@@ -105,6 +109,9 @@ firslty,i continued polishing and editing on motors holder,I tried to work on jo
 <img width="583" height="625" alt="Screenshot 2026-09-15 062124" src="https://github.com/user-attachments/assets/666d0e25-e3e8-4f44-a2ee-97ebeed3d360" />
 
 After that,i searched for 4 ohm speaker 3d model,then i assembled it with main body from back,after that , i project it dimesions,then cut part for speakers only.then extrude inner columns to hold speaker through moutning holes.
+
+<img width="371" height="456" alt="Screenshot 2026-09-15 063511" src="https://github.com/user-attachments/assets/6c42d50c-f242-444d-a55d-53e7147f5380" />
+
 
 After that,i tried to take head from M-O  crabcad version,but i found i can't edit on it efficietly and cut inside it,so i decided to make head ,i tried to make one with big and small rectangle using loft tool,but after assemblt it with main body i found it no suitable,so i decided to increse number of sketches to give me head shape and polished curved one.
 
