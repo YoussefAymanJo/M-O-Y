@@ -1,0 +1,14 @@
+item,description,link,Qt,price in USD
+ESP s3,Microcontroller of the robot,https://store.fut-electronics.com/products/esp32-s3-devkitc-1,1,8.43
+INMP441 ,Mic for voic input,https://store.fut-electronics.com/products/inmp441-mems-microphone-i2s,1,6.63
+MAX98357A ,Amiplifier for voice,https://makerselectronics.com/product/max98357a-i2s-amplifier-module/,1,2.41
+Speakers,Speaker 4 Ohm 10W 90x50mm,https://makerselectronics.com/product/speaker-4-ohm-10w-90x50mm/,1,1.1
+Touch sensor,for on / off robot,https://makerselectronics.com/product/ttp223-capacitive-touch-sensor-red/,1,0.2
+8650-lithium-ion-rechargeable,Provide electricity for robot,https://store.fut-electronics.com/products/18650-lithium-ion-rechargeable-high-quality-battery-3-7v-1200-mah,2,3.41
+18650-lithium-battery-charger-module,charge batteries,https://www.ram-e-shop.com/ar/shop/kit-li-2s-charger-2s-8-4v-2a-18650-lithium-battery-charger-module-usb-type-c-9295,1,1
+TFT LCD 1.5 inch SPI,for display robot face,https://store.fut-electronics.com/products/tft-lcd-1-5-inch-spi,,4.42
+Servo Motor ,for arms movement,https://www.ram-e-shop.com/ar/shop/servo-sg90-sg90-micro-servo-motor-180deg-1-8-kg-cm-plastic-gears-7222?category=116,2,3.41
+step down,Step down to 5v,https://www.ram-e-shop.com/ar/shop/dc-dc-107-dc-dc-step-down-converter-5a-24v-12v-to-fixed-output-5v-5a-sku-dc107-bwrd-dyr-khfd-jhd-m-khrj-5-fwlt-5-mbyr-thbt-8203,1,3.21
+PCb fabrication,none,none,1,39
+wood & 3d printing,,none,,
+total,none,none,12,73.22
