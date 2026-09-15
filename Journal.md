@@ -68,20 +68,38 @@ created at:2026-8-11
 
 ### Content 
 
-### Recording (27 min) :
+### Recording (1 h & 27 min) :
+
+https://lapse.hackclub.com/timelapse/VlEdoGxMToQe
+
 ## Entry 7
-created at:2026-8-11
+created at:2026-8-13
 
 ### Content 
+firslty,i continued polishing and editing on motors holder,I tried to work on joing holder in body like lego cube,then i contined editiing on it dimensions and positions to align with 2 joints in the body,I use section analysis to align them together.after various tries ,they join togehter ,then i cut hole in the side of robot for servo opening with arms.
 
-### Recording (27 min) :
-## Entry 4
+After that,i searched for 4 ohm speaker 3d model,then i assembled it with main body from back,after that , i project it dimesions,then cut part for speakers only.then extrude inner columns to hold speaker through moutning holes.
+
+After that,i tried to take head from M-O  crabcad version,but i found i can't edit on it efficietly and cut inside it,so i decided to make head ,i tried to make one with big and small rectangle using loft tool,but after assemblt it with main body i found it no suitable,so i decided to increse number of sketches to give me head shape and polished curved one.
+
+I sketched 4 rectangles withh specife space between them start from bigger one in dimensions to least one,then used loft ,but i tried to construct chamber it all loft but i can not,so i made chamber between two sketched then connect the next one till end,froming curved polihed head with free space inside.
+
+After that,i opened circular hole in the head for wires and connetino columns with the body,then i assebled head with main body,and extrude column from the head to motor holder and used section analysis to join them togther like lego.after that,i added tft screen to assebmly in the head,then cut part from head show screen only and extrude circular columns to hold it from mouting holes.
+
+### Recording (2 h & 3 min) :
+
+https://lapse.hackclub.com/timelapse/6rtRAi-SotMc
+https://lapse.hackclub.com/timelapse/jW-a1tJhF879
+
+## Entry 8
 created at:2026-8-14
 
 ### Content 
 During this session ,i worked on finishing head and rendering,first i sketch rectangular on/off box and extrude it,then i checked it  aligment wih robot head.after that i project touch sensor on it ,then cut hole for sensor part.then i extrude holders for mounting holes in the sensors and align it with section analysis.
 After that,i started rendering robot based on its colour in the movie,then i made changes to it arm colour in black and white.then i signed robot name on head and extrude it.
+Then ,i extrude columns holders for stepdown, BMS , charger,MAx amplifier ,sketching their moutning holes ,the extrude them,then used section analysis to align them over holders.finally,i cut hole from the bottom of the base and rectangular part ,where plug for chargin module will be setlled in .
 
+After that,i worked on head
 <img width="1120" height="744" alt="Screenshot 2026-09-15 024259" src="https://github.com/user-attachments/assets/242f2777-4053-4cb3-a33e-7d49a4062575" />
 
 Finally,i worked on BOM, searching for component prices in egypt then convert it to usd,and uploaded PCB gerbers to JLCPCB
