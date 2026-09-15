@@ -65,6 +65,7 @@ created at:2026-8-11
 
 Firstly,i searched for 3d models on grabcad for max amplifier , MIC , BMS , charger module, stepdown  ,battiers and their holders.After that,i uploaded pcb to fusion then,added manully stepdown 3d model again,the project it dimensions in dxf file.After that ,i sketch base circle for PCb and power management.
 then i extruded i this circle ,and added power part and audio amplifier ,then i adjusted base dimension on them after mutiple tries of polishing.then i offset this circ and extrude the offset with height double base ,so cover will be in.then,i added batteries holder after adding 2 lituam batteries to it.
+<img width="1318" height="682" alt="Screenshot 2026-09-15 024403" src="https://github.com/user-attachments/assets/29a78855-91e0-4a35-bd75-58519dd89c0f" />
 
 After that,i sketched circular columns with offset smaller than columns height,where pcb will be holded on ,and buy using section analysis,i adjust pcb position on the base.then i construct 2 circles  one bigger that another making for concave shape ,then i used loft shape ,and by changing heigt of small circle of type of loft using section analysis to avoide interaction with circuit componets and cover all the base with min height.After muliple tries i made ,as my first time using loft i reach best shape and heigth.
 then ,i cut hole on the top on the cover where jumpers and wires will be in
@@ -84,6 +85,8 @@ After that,i wann make holder picece that hold 2 servo and is settled and joined
 
 After that,i record servo dimensions,then i sketch rectangle part with circle hole in the middle,after that i add fillset,but romved it later,then i project servo on this peice the extrude this edges for holding servo with serwes in the edges.then,i removed the hole in the middle and replace it with 2 big and small circle connected by loft making like hanging or joint for coloumn of the head.then i reedit on it dimensions from beginng as found it was wrong,then i added in the back extrudtion in shape of rectangle to be joint in hanging in the body.
 
+<img width="761" height="602" alt="Screenshot 2026-09-15 062142" src="https://github.com/user-attachments/assets/8a92bd20-6963-4aad-a4bf-f26ccf09cfcf" />
+
 ### Recording (1 h & 27 min) :
 
 https://lapse.hackclub.com/timelapse/VlEdoGxMToQe
@@ -93,6 +96,8 @@ created at:2026-8-13
 
 ### Content 
 firslty,i continued polishing and editing on motors holder,I tried to work on joing holder in body like lego cube,then i contined editiing on it dimensions and positions to align with 2 joints in the body,I use section analysis to align them together.after various tries ,they join togehter ,then i cut hole in the side of robot for servo opening with arms.
+<img width="727" height="527" alt="Screenshot 2026-09-15 062201" src="https://github.com/user-attachments/assets/faa45bea-8656-44e1-94ed-30ff62c6f940" />
+<img width="583" height="625" alt="Screenshot 2026-09-15 062124" src="https://github.com/user-attachments/assets/666d0e25-e3e8-4f44-a2ee-97ebeed3d360" />
 
 After that,i searched for 4 ohm speaker 3d model,then i assembled it with main body from back,after that , i project it dimesions,then cut part for speakers only.then extrude inner columns to hold speaker through moutning holes.
 
@@ -101,6 +106,7 @@ After that,i tried to take head from M-O  crabcad version,but i found i can't ed
 I sketched 4 rectangles withh specife space between them start from bigger one in dimensions to least one,then used loft ,but i tried to construct chamber it all loft but i can not,so i made chamber between two sketched then connect the next one till end,froming curved polihed head with free space inside.
 
 After that,i opened circular hole in the head for wires and connetino columns with the body,then i assebled head with main body,and extrude column from the head to motor holder and used section analysis to join them togther like lego.after that,i added tft screen to assebmly in the head,then cut part from head show screen only and extrude circular columns to hold it from mouting holes.
+<img width="561" height="712" alt="Screenshot 2026-09-15 062311" src="https://github.com/user-attachments/assets/1dfc9005-56fc-4ad7-affa-0c50853832c5" />
 
 ### Recording (2 h & 3 min) :
 
