@@ -57,16 +57,32 @@ Finally,i searched for HC stickers and added one to PCB and signed my name,then 
 
 ### Recording (27 min) :
 https://lapse.hackclub.com/timelapse/CuC4dDIBFFFC
+
 ## Entry 5
 created at:2026-8-11
 
 ### Content 
 
-### Recording (27 min) :
+Firstly,i searched for 3d models on grabcad for max amplifier , MIC , BMS , charger module, stepdown  ,battiers and their holders.After that,i uploaded pcb to fusion then,added manully stepdown 3d model again,the project it dimensions in dxf file.After that ,i sketch base circle for PCb and power management.
+then i extruded i this circle ,and added power part and audio amplifier ,then i adjusted base dimension on them after mutiple tries of polishing.then i offset this circ and extrude the offset with height double base ,so cover will be in.then,i added batteries holder after adding 2 lituam batteries to it.
+
+After that,i sketched circular columns with offset smaller than columns height,where pcb will be holded on ,and buy using section analysis,i adjust pcb position on the base.then i construct 2 circles  one bigger that another making for concave shape ,then i used loft shape ,and by changing heigt of small circle of type of loft using section analysis to avoide interaction with circuit componets and cover all the base with min height.After muliple tries i made ,as my first time using loft i reach best shape and heigth.
+then ,i cut hole on the top on the cover where jumpers and wires will be in
+
+finally,i sketched robot body then extrude it,after that i made chamber inside it ,but,i found it was to big compare with image so i reduced it dimensions more,after that ,  searched for M-O full 3d model on crab cad to get from it arms.
+
+### Recording (1 h && 44 min) :
+
+https://lapse.hackclub.com/timelapse/eAX-vrbeMfxc
+
 ## Entry 6
-created at:2026-8-11
+created at:2026-8-12
 
 ### Content 
+During this session , i worked mainly on moving parts,Firstly,i edit on main body dimensions reduce it,to be suitable for space on my desk and hands of robot,then i add roller from M-O robot,then i scaled it on y axis to increase it length to reach 2 end of body ,then i added arms ,and align them with roller and motors for felixbale movement.
+After that,i wann make holder picece that hold 2 servo and is settled and joined to extruding hanging in main body like lego,so i contruct on inner body and make the hanging part on two sides ,then extrude them.
+
+After that,i record servo dimensions,then i sketch rectangle part with circle hole in the middle,after that i add fillset,but romved it later,then i project servo on this peice the extrude this edges for holding servo with serwes in the edges.then,i removed the hole in the middle and replace it with 2 big and small circle connected by loft making like hanging or joint for coloumn of the head.then i reedit on it dimensions from beginng as found it was wrong,then i added in the back extrudtion in shape of rectangle to be joint in hanging in the body.
 
 ### Recording (1 h & 27 min) :
 
