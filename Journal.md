@@ -25,6 +25,7 @@ https://lapse.hackclub.com/timelapse/0pda_EBY_YpM
 created at:2026-8-10
 
 ### Content 
+During this session ,i workd mainly on schematic,firstly,i added esp s3 ,then i sketched rectangles for each part in circuit to organize schematic.After that i found most of componets deosnot have sybmol on kicad.So i created new library,then i searched for pinout for max91 amplifier and MIC then i make sybmol for them and sybmol +ve and -ve pins input for speaker and touch sensor , then i searched fro BMS module and charger pins and made them,after that i searched alot for stepdown footprint and found one,then i searched for its 3d model on crabcad,then i made symbol for it.Last things,i made symbol for tft screen display.
 
 <img width="433" height="332" alt="Screenshot 2026-09-14 145925" src="https://github.com/user-attachments/assets/8d7608f2-fad4-4ede-97da-c84f4ac98557" />
 <img width="649" height="408" alt="Screenshot 2026-09-14 145931" src="https://github.com/user-attachments/assets/8cc875c2-6073-4cec-908e-2f455d6a048c" />
@@ -32,6 +33,9 @@ created at:2026-8-10
 <img width="526" height="634" alt="Screenshot 2026-09-14 145937" src="https://github.com/user-attachments/assets/a1adc925-4f4d-400b-9add-c920a19d965f" />
 <img width="438" height="217" alt="Screenshot 2026-09-14 145944" src="https://github.com/user-attachments/assets/df3b3a99-5479-4636-96e4-bdf4d1db9787" />
 
+Secondly,I watch videos about connectino of max19 amiplifer ,Mic,touch sensor and tft screen with esp 32 ,then i started routing them ,after that i added 2 servo motors and connect them direct to esp.After that,i worked on BMS board , connecting batteries in parallel,then to BMS and battery charger.After that to stepdown to 5v ,but i found tft need 3v ,so i seacrhed for voltage regulator to 3.3 v and added it to schematic.
+
+Thirdly,i added pin header on pcb where componets will wired using jumpers,the i routed them with MCU,after that i organized schematic more,adding description,and sketch worflow diagram of power cycle for batteries to esp and componets.then i assigned footprints to each part.but i found 3d models for esp and stepdown failed to uppload so i added them manually.
 <img width="500" height="466" alt="Screenshot 2026-09-14 145952" src="https://github.com/user-attachments/assets/f7c3ac4a-126d-4d25-9170-f5cc358ca561" />
 <img width="845" height="261" alt="Screenshot 2026-09-14 145753" src="https://github.com/user-attachments/assets/6398a7de-03df-49a3-95b1-aa827916f022" />
 <img width="352" height="250" alt="Screenshot 2026-09-14 145747" src="https://github.com/user-attachments/assets/64b5e8ae-cb4e-41df-aab2-f7a2b9ead648" />
