@@ -1,4 +1,4 @@
-<img width="938" height="857" alt="image" src="https://github.com/user-attachments/assets/950c122c-31a1-4d58-b234-5efba7b255ec" /># M-O-Y
+# M-O-Y
 
 ## Description 
 
