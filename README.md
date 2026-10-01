@@ -1,4 +1,4 @@
-# M-O-Y
+<img width="938" height="857" alt="image" src="https://github.com/user-attachments/assets/950c122c-31a1-4d58-b234-5efba7b255ec" /># M-O-Y
 
 ## Description 
 
@@ -33,7 +33,7 @@ I outlined shape first, then routed the PCB and added 3d models
 
 ## Firmware 
 
-i will us this for firmware https://github.com/78/xiaozhi-esp32 and https://github.com/EDISON-SCIENCE-CORNER/AI-CHAT-BOT/tree/main/3D%20FILES while editing the code while building.
+<img width="938" height="857" alt="Screenshot 2026-10-01 230625" src="https://github.com/user-attachments/assets/dadc71f6-c718-4519-9f4a-e3479867a42e" />
 
 ## BOM
 
