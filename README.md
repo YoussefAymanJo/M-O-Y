@@ -19,6 +19,8 @@ I made a schematic for my Robot, and sketch simpled diagram for the schematic.
 <img width="845" height="261" alt="Screenshot 2026-09-14 145753" src="https://github.com/user-attachments/assets/bc810030-c68a-4e31-b21f-6e49e000fdd4" />
 <img width="352" height="250" alt="Screenshot 2026-09-14 145747" src="https://github.com/user-attachments/assets/6743ad57-24b6-42b7-ab8a-1e8b2712dd9e" />
 <img width="560" height="351" alt="Screenshot 2026-09-14 145743" src="https://github.com/user-attachments/assets/38e05bd8-32dd-430f-afe7-11f2b23b5abe" />
+<img width="1202" height="639" alt="Screenshot 2026-10-09 082845" src="https://github.com/user-attachments/assets/d1965bbf-317c-49d9-99c0-08e8886dcae2" />
+
 
 ## PCB
 I outlined shape first, then routed the PCB and added 3d models
