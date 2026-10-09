@@ -14,6 +14,9 @@ Firstly,buy circuit componets and fabricate PCB.After that sold componets on PCB
 After that upload code and test it on circuit ,editing also.
 Finally,fabricat 3d printed enlcouuree and assebmle them with circuit using glue and scews.
 
+<img width="1202" height="639" alt="Screenshot 2026-10-09 082845" src="https://github.com/user-attachments/assets/2b04cfb3-de32-4055-a580-aa22130e3fd8" />
+
+
 ## Schemtatic
 I made a schematic for my Robot, and sketch simpled diagram for the schematic.
 <img width="845" height="261" alt="Screenshot 2026-09-14 145753" src="https://github.com/user-attachments/assets/bc810030-c68a-4e31-b21f-6e49e000fdd4" />
